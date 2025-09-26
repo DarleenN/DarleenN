@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-### Hi there 👋<br><br>- 💙 Working on testautomation and performanceoptimisation and profiling
+### Hi there 👋<br><br>- 💙 Working on testautomation and performanceoptimisation and profiling <br><br>- 💻 C/AL | AL Main-Languages
 
 
 ## 🌐 Socials:
